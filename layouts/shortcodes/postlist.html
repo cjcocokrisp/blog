@@ -1,0 +1,3 @@
+{{ range where .Site.Pages "Section" "posts" }}
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+{{ end }}
