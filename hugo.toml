@@ -35,7 +35,7 @@ theme = "re-terminal"
   [[languages.en.menu.main]]
     indentifer = "posts"
     name = "Posts"
-    url = "/post" 
+    url = "/list" 
 
   [[languages.en.menu.main]]
     indentifer = "return"
