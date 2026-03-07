@@ -46,4 +46,4 @@ I don't know how long my articles are going to be but I do have a note on my pho
 I also want to expand this at some point and add other stuff like likes, comments, and maybe even a subscribe feature, but we'll see.
 You also might be wondering what the `[001]` in the title is. That's just the number of the article this is. I don't know why but I did this with all my blogs so I intend to do that for this too.
 
-That's all for this post, see you all in the next one.
+That's all for this post, see you all in the next one!
