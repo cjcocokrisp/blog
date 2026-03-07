@@ -1,7 +1,7 @@
-baseURL = 'https://blog.cjcocokrisp.dev/'
-languageCode = 'en-us'
-title = 'blog.cjcocokrisp.dev'
-theme = 're-terminal'
+baseURL = "/"
+languageCode = "en-us"
+title = "blog.cjcocokrisp.dev"
+theme = "re-terminal"
 
 
 [params]
