@@ -34,8 +34,8 @@ If I had to list my top 5 games they would be:
 1) Trails into Reverie  
 2) NieR Automata  
 3) Super Smash Bros. Ultimate  
-4) Pokemon White Version 2  
-5) Risk of Rain 2  
+4) Pokémon White Version 2  
+5) Slay the Spire
 
 I would put all Trails games on that list (it's my favorite franchise and probably piece of media ever haha) but I can't do that.
 I want to try and write my thoughts about the gaming industry and also the games I'm playing here as well.
