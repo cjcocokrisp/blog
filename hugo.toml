@@ -31,6 +31,10 @@ theme = "re-terminal"
     name = "Home"
     url = "/" 
 
+[[languages.en.menu.main]]
+    indentifer = "about"
+    name = "About"
+    url = "/about" 
 
   [[languages.en.menu.main]]
     indentifer = "posts"

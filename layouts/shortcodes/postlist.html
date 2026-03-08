@@ -1,3 +1,5 @@
 {{ range where .Site.Pages "Section" "posts" }}
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+  {{ if ne .Title "index"}}
+    {{ .Date.Format "2006-01-02" }} | <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+  {{ end }}
 {{ end }}
