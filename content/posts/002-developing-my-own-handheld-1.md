@@ -10,6 +10,8 @@ cover = "/imgs/002/my-mockup.png"
 coverCaption = "Mockup of Handheld"
 +++
 
+{{< handheld-toc >}}
+
 One project that I've always had in the back of my mind is creating my own gaming
 handheld. There's been multiple versions of this in my head varying in complexity.
 There was a point where I thought if I ever did this project I would want to write

@@ -1,0 +1,21 @@
+<i>This article is apart of a series where I discuss my project of building my own
+gaming handheld. Below is the table of contents for the series:</i>
+
+{{ $currentPageTitle := .Page.Title }}
+
+{{ $posts := dict
+    "[002] Developing My Own Gaming Handheld Part 1: The Plan is Simple?" "/posts/002-developing-my-own-handheld-1"
+    "[003] Developing My Own Gaming Handheld Part 2: SBC Benchmarking" "/posts/003-developing-my-own-handheld-2"
+}}
+
+<ul>
+{{ range $name, $link := $posts }}
+    {{ if ne $currentPageTitle $name }}
+        <li><i><a href="{{ $link }}">{{ substr $name 39 }}</a></i></li>
+    {{ else }}
+        <li><i>{{ substr $name 39 }}</i></li>
+    {{ end }}
+{{ end }}
+</ul>
+
+<br>
