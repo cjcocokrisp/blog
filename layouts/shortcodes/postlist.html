@@ -1,5 +1,11 @@
 {{ range where .Site.Pages "Section" "posts" }}
   {{ if ne .Title "index"}}
-    {{ .Date.Format "2006-01-02" }} | <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+    {{ .Date.Format "2006-01-02" }} | <a href="{{ .RelPermalink }}">
+      {{ if gt (len .Title) 67 }}
+        {{ printf "%.64s" .Title }}...
+      {{ else }}
+        {{ .Title }}
+      {{ end }}
+    </a><br>
   {{ end }}
 {{ end }}
