@@ -1,6 +1,6 @@
 +++
 date = "2026-08-09T00:00:00-04:00"
-title = "[011] My Self Hosting Personal Finance Setup with Hledger"
+title = "[011] My Self Hosted Personal Finance Setup with Hledger"
 author = "Christopher Coco"
 cover = "/imgs/011/cover.png"
 coverCaption = ""
